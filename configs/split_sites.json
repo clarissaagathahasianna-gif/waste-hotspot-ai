@@ -1,0 +1,77 @@
+{
+  "strategy": "site-level grouped split (exhaustive search)",
+  "criteria": {
+    "test_frac": [
+      0.12,
+      0.22
+    ],
+    "val_frac": [
+      0.1,
+      0.2
+    ],
+    "target": 0.15
+  },
+  "classes": [
+    "Asbestos",
+    "Construction and demolition materials",
+    "Excavation materials",
+    "Furniture",
+    "Metal barrels",
+    "Mixed items",
+    "Other waste",
+    "Pallets",
+    "Plastic",
+    "Plastic packaging",
+    "Rubble",
+    "Scrap",
+    "Textile",
+    "Tyres",
+    "Vehicles",
+    "Wood"
+  ],
+  "class_map": {
+    "Rubble": "Rubble",
+    "Construction and demolition materials": "Construction and demolition materials",
+    "Asphalt milling": "Other waste",
+    "Excavation materials": "Excavation materials",
+    "Appliances": "Other waste",
+    "Electronic equipment": "Other waste",
+    "Furniture": "Furniture",
+    "Metal barrels": "Metal barrels",
+    "Plastic packaging": "Plastic packaging",
+    "Wood": "Wood",
+    "Pallets": "Pallets",
+    "Scrap": "Scrap",
+    "Plastic": "Plastic",
+    "Vehicles": "Vehicles",
+    "Tyres": "Tyres",
+    "Paper": "Other waste",
+    "Foundry": "Other waste",
+    "Asbestos": "Asbestos",
+    "Textile": "Textile",
+    "Mixed items": "Mixed items"
+  },
+  "train": [
+    "site1",
+    "site10",
+    "site11",
+    "site12",
+    "site14",
+    "site16",
+    "site17",
+    "site3",
+    "site4",
+    "site6",
+    "site8",
+    "site9"
+  ],
+  "val": [
+    "site15",
+    "site5"
+  ],
+  "test": [
+    "site13",
+    "site2",
+    "site7"
+  ]
+}

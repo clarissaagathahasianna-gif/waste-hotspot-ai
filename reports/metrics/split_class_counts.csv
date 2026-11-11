@@ -1,0 +1,17 @@
+cls,train,val,test
+Asbestos,157,31,22
+Construction and demolition materials,299,56,42
+Excavation materials,70,25,7
+Furniture,176,11,2
+Metal barrels,109,27,36
+Mixed items,271,30,64
+Other waste,26,29,6
+Pallets,872,56,88
+Plastic,138,20,28
+Plastic packaging,179,53,110
+Rubble,68,35,58
+Scrap,192,165,37
+Textile,716,25,135
+Tyres,112,95,104
+Vehicles,83,94,1
+Wood,135,12,28
