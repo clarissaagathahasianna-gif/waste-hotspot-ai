@@ -1,0 +1,4 @@
+split,n_images,n_background,n_instances
+train,961,144,3603
+val,353,165,764
+test,305,139,768
