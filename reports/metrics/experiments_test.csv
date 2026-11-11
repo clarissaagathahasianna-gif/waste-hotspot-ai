@@ -1,0 +1,4 @@
+experiment,weights,settings,box_P,box_R,box_mAP50,box_mAP50_95,mask_P,mask_R,mask_mAP50,mask_mAP50_95
+E1_y11n_singlecls,yolo11n-seg.pt,{'single_cls': True},0.425,0.469,0.382,0.242,0.398,0.439,0.344,0.199
+E2_y11n_aerialaug,yolo11n-seg.pt,"{'flipud': 0.5, 'degrees': 45}",0.326,0.284,0.235,0.16,0.323,0.277,0.219,0.142
+E3_y11s_aerialaug,yolo11s-seg.pt,"{'flipud': 0.5, 'degrees': 45}",0.209,0.325,0.227,0.151,0.206,0.322,0.215,0.136

@@ -1,0 +1,17 @@
+class,box_mAP50_95,mask_mAP50_95
+Asbestos,0.584,0.594
+Construction and demolition materials,0.097,0.094
+Excavation materials,0.011,0.012
+Furniture,0.0,0.0
+Metal barrels,0.028,0.027
+Mixed items,0.261,0.242
+Other waste,0.132,0.116
+Pallets,0.395,0.361
+Plastic,0.023,0.023
+Plastic packaging,0.094,0.091
+Rubble,0.015,0.013
+Scrap,0.038,0.037
+Textile,0.256,0.204
+Tyres,0.399,0.288
+Vehicles,0.001,0.0
+Wood,0.08,0.073
