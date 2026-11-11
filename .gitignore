@@ -1,0 +1,17 @@
+# Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Data besar 
+data/raw/
+data/interim/
+data/processed/
+
+# Model hasil training
+models/
+*.pt
+
+# File sistem
+.DS_Store
+Thumbs.db

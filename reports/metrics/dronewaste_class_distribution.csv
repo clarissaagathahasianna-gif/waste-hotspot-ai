@@ -1,0 +1,21 @@
+id,name,supercategory,ewc,n_annotations,n_images
+11,Pallets,instance_waste,07.51 Wood packaging,1016,195
+19,Textile,instance_waste,07.6 Textiles wastes,876,109
+2,Construction and demolition materials,pile_waste,"12.11 Concrete, bricks and gypsum waste",397,224
+12,Scrap,pile_waste,06.11 Ferrous metal waste and scrap,394,230
+20,Mixed items,pile_waste,10.2 Mixed and undifferentiated materials,365,282
+9,Plastic packaging,instance_waste,07.41 Plastic packaging wastes,342,187
+15,Tyres,instance_waste,07.31 Used tyres,311,59
+18,Asbestos,instance_waste,12.21 Asbestos wastes,210,172
+7,Furniture,instance_waste,10.11 Household wastes,189,77
+13,Plastic,pile_waste,07.42 Other plastic wastes,186,145
+14,Vehicles,instance_waste,08.12 Other discarded vehicles,178,70
+10,Wood,pile_waste,07.53 Other wood wastes,175,141
+8,Metal barrels,instance_waste,06.31 Mixed metallic packaging,172,37
+1,Rubble,pile_waste,12.61 Soils,161,139
+4,Excavation materials,pile_waste,12.31 Waste of naturally occurring minerals,102,76
+5,Appliances,instance_waste,08.21 Discarded major household equipment,35,26
+16,Paper,instance_waste,07.2 Paper and cardboard wastes,11,11
+6,Electronic equipment,instance_waste,08.23 Other discarded electrical and electronic equipment,11,7
+17,Foundry,pile_waste,12.42 Slags and ashes from thermal treatment and combustion,3,3
+3,Asphalt milling,pile_waste,12.12 Waste hydrocarbonised road-surfacing material,1,1
