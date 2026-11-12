@@ -25,6 +25,9 @@
 4. Geocoding pakai openstreetmap.org (klik kanan → "Show address" → koordinat muncul di panel kiri).
 5. Hanya baris dengan precision `exact` atau `street` yang dipakai sebagai label model (grid 500 m).
 6. Jangan menebak koordinat. Jika lokasi tidak bisa dipastikan, isi precision `kelurahan`/`kecamatan`.
+7. Kolom kelurahan & kecamatan boleh dikosongkan; diisi otomatis oleh script dari batas administrasi.
+8. Target penelitian = titik penumpukan sampah bermasalah (TPS liar + TPS resmi yang meluap).
+   Kolom is_official_tps dipakai untuk analisis sensitivitas.
 
 ## Log pencarian
 | Tanggal cari | Query | Media | Jumlah artikel dicek |
