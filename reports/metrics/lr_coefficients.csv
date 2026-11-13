@@ -1,0 +1,7 @@
+,coef_std_log
+dist_market_m,-0.769
+dist_road_major_m,-0.353
+dist_osm_waste_facility_m,-0.173
+dist_river_m,0.593
+dist_road_any_m,0.68
+road_density_km_km2,0.879
